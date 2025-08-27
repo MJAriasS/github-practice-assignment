@@ -1,12 +1,26 @@
 ---
 title: "Sample analysis"
-author: "Dr. Richards"
-date: "2025-08-11"
+author: "Majo Arias"
+date: "2025-08-27"
 output: html_document
 ---
+
+This document is part of the Lab Assignment for Week 2 in the Biological Data Science course. It contains a sample chunk and a code chunk with a simple mathematical operation. 
+
+This week we are practicing creating GitHub repositories, committing, pushing, pulling, branching, and merging.
+
+Important information to include in future analyses: objective of the analyses, what data we are working with and what stage of the analysis we are in.  
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+```{r}
+# this is a simple mathematical operation (step 7 in the worksheet)
+5*5
+#[1] 25
+```
 
