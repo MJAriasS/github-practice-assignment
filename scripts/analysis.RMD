@@ -9,7 +9,7 @@ This document is part of the Lab Assignment for Week 2 in the Biological Data Sc
 
 This week we are practicing creating GitHub repositories, committing, pushing, pulling, branching, and merging.
 
-Important information to include in future analyses: objective of the analyses, what data we are working with and what stage of the analysis we are in.  
+Important information to include in future analyses: objective of the analyses, what data we are working with, and what stage of the analysis we are in. I also like to include a note to myself to know where I left off, and what the next steps should be. 
 
 
 
