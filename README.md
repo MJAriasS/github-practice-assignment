@@ -7,4 +7,5 @@ My goals for this class are to learn (and re-learn) practices for better data ma
 Learning tool: Reproducibility has already been a helpful learning tool for me, since I was able to access code, comments, and datasets from other researcher's articles and use that to inform my understanding and to even try out similar analyses on my data (crucial for the work I did during my master's degree, which got me in touch with Ben Freeman!)
 Credibility: Adhering to standard practices in my field regarding data and code availability will help me as I build my professional career and skillset.
 Organization: As a member of a young research lab, I am interested in finding ways to build our database and to craft protocols and practices that will allows us to keep track of projects, ideas, and workflows. I also like that it lets me do version control and keep a log of the changes I make and the reasons. 
- 
+### Making a change to a file in testing branch of repository
+I am adding this info from the testing branch in the Github browser. I'm a bit confused about the alerts that one branch is x commits ahead or behind the main branch-- I assume those resolve with the pull requests and merging? 
