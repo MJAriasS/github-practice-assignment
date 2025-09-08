@@ -9,3 +9,5 @@ Credibility: Adhering to standard practices in my field regarding data and code 
 Organization: As a member of a young research lab, I am interested in finding ways to build our database and to craft protocols and practices that will allows us to keep track of projects, ideas, and workflows. I also like that it lets me do version control and keep a log of the changes I make and the reasons. 
 ### Making a change to a file in testing branch of repository
 I am adding this info from the testing branch in the Github browser. I'm a bit confused about the alerts that one branch is x commits ahead or behind the main branch-- I assume those resolve with the pull requests and merging? 
+### Collaboration
+Robert Ernst has access to repo if he wants to make a change here 
