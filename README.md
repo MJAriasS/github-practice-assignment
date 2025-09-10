@@ -10,4 +10,4 @@ Organization: As a member of a young research lab, I am interested in finding wa
 ### Making a change to a file in testing branch of repository
 I am adding this info from the testing branch in the Github browser. I'm a bit confused about the alerts that one branch is x commits ahead or behind the main branch-- I assume those resolve with the pull requests and merging? 
 ### Collaboration
-Robert Ernst has access to repo if he wants to make a change here 
+Robert Ernst has access to repo if he wants to make a change here. I have made an edit on his repository's README file. 
